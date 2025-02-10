@@ -1,45 +1,34 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# PD2024.2_LeetCode_Dupla27
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+**Número da Lista**: 27
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Progamação Dinâmica
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula | Aluno                      |
+| --------- | -------------------------- |
+| 202016963 | Mateus Vinicius Vieira     |
+| 211039680 | Pedro Lucas Dourado Santos |
+
+## Sobre
+
+Este projeto consiste na resolução de questões da plataforma LeetCode variando nas dificuldades de médio e difícil. O objetivo é utilizar o conteúdo em sala.
+
+| Problema | Nome                                                                                                                        | Nível de Dificuldade |
+| -------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| 1140     | [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/?envType=problem-list-v2&envId=dynamic-programming) | Médio                |
+
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+## Linguagem Utilizada
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+- Python
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Uso
 
+Entrar na plataforma [LeetCode](https://leetcode.com/), procurar pelo número do exercício, colar na aba code e clicar em Run
 
-
-
+## Outros
+<!-- [Vídeo de Apresentação](https://youtu.be/) -->
