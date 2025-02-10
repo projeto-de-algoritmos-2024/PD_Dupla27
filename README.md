@@ -15,9 +15,10 @@
 
 Este projeto consiste na resolução de questões da plataforma LeetCode variando nas dificuldades de médio e difícil. O objetivo é utilizar o conteúdo em sala.
 
-| Problema | Nome                                                                                                                        | Nível de Dificuldade |
-| -------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| 1140     | [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/?envType=problem-list-v2&envId=dynamic-programming) | Médio                |
+| Problema | Nome                                                                                                                      | Nível de Dificuldade |
+| -------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| 1140     | [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/)                                                 | Médio                |
+| 1255     | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) | Difícil              |
 
 
 ## Screenshots
