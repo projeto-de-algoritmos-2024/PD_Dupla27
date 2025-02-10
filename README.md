@@ -19,6 +19,7 @@ Este projeto consiste na resolução de questões da plataforma LeetCode variand
 | -------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------- |
 | 1140     | [Stone Game II](https://leetcode.com/problems/stone-game-ii/description/)                                                 | Médio                |
 | 1255     | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) | Difícil              |
+| 1402     | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)                                             | Difícil              |
 
 
 ## Screenshots
@@ -28,6 +29,9 @@ Este projeto consiste na resolução de questões da plataforma LeetCode variand
 
 ### Maximum Score Words Formed by Letters
 ![Print 1255](/img/1255.png)
+
+### Reducing Dishes
+![Print 1402](/img/1402.png)
 
 ## Linguagem Utilizada
 
