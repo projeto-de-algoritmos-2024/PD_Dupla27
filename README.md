@@ -23,6 +23,12 @@ Este projeto consiste na resolução de questões da plataforma LeetCode variand
 
 ## Screenshots
 
+### Stone Game II
+![Print 1140](/img/1140.png)
+
+### Maximum Score Words Formed by Letters
+![Print 1255](/img/1255.png)
+
 ## Linguagem Utilizada
 
 - Python
