@@ -42,4 +42,4 @@ Este projeto consiste na resolução de questões da plataforma LeetCode variand
 Entrar na plataforma [LeetCode](https://leetcode.com/), procurar pelo número do exercício, colar na aba code e clicar em Run
 
 ## Outros
-[Vídeo de Apresentação]([https://youtu.be/](https://www.youtube.com/watch?v=fpjxb2n5ImQ)) 
+[Vídeo de Apresentação](https://www.youtube.com/watch?v=fpjxb2n5ImQ) 
